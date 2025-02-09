@@ -3,3 +3,5 @@
 /.zed
 /.fleet
 /lib
+/__pycache__
+/.DS_Store
