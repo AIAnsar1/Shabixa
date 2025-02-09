@@ -1,0 +1,3 @@
+#!/Users/corevoid/Desktop/projects/shabixa/bin/python
+import ldapdomaindump
+ldapdomaindump.main()
